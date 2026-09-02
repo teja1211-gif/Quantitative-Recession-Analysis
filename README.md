@@ -374,16 +374,6 @@ See `.env.example` for the expected configuration.
 
 ---
 
-## 15. Current Status
-
-The repository is currently in the **data-collection/setup stage**.
-
-No final model accuracy is claimed yet.
-
-Any performance numbers added later will be based on the completed and documented evaluation pipeline.
-
----
-
 ## License
 
 This project is intended for educational and portfolio purposes.
