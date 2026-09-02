@@ -2,9 +2,6 @@
 
 A data-driven study of U.S. recession indicators using macroeconomic, labor-market, financial-market, and yield-curve data.
 
-> **Project status:** 🚧 In progress  
-> The repository is currently being built from primary data sources. Model results will be added after the data pipeline and time-aware evaluation are completed.
-
 ---
 
 ## 1. Project Overview
